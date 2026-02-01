@@ -1,4 +1,4 @@
-# Hi, I'm Rachel
+# 👋 Hi, I'm Rachel
 
 Data-focused engineer and analyst with **8 years of professional experience** building scalable analytics systems, extracting signal from complex data, and turning analysis into decisions.
 
